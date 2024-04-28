@@ -1,0 +1,23 @@
+{
+    "report_url": "https://www.tiktok.com/report/user?objectId=7063761261138609157&ownerId=7063761261138609157&nickname=ضياء🦅🇮🇶%22&secUid=MS4wLjABAAAABqhgTyI5ZQN1sH38TwVionMzJ208ZDF-Y-vNKYY5yDzgZnPx2G6Q3DGgFi-sGYpk&lang=en",
+    "proxy_scraper": "y",
+    "threads": 200,
+
+    "report_types": {
+        "Violence": "y",
+        "Sexual Abuse": "y",
+        "Animal Abuse": "y",
+        "Criminal Activities": "y",
+        "Hate": "y",
+        "Bullying": "y",
+        "Suicide Or Self-Harm": "y",
+        "Dangerous Content": "y",
+        "Sexual Content": "y",
+        "Porn": "y",
+        "Drugs": "y”,
+        "Firearms Or Weapons": "y",
+        "Sharing Personal Info": "y”,
+        "Human Exploitation": "y”,
+        "Under Age": "y”,
+    }
+}
